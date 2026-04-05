@@ -26,7 +26,7 @@ Monitors candidates with their composite TrustScore, Red Flags, and the interact
 
 ### SpacetimeDB Dashboard
 Real-time database tables and sync layer powering TrustHire .
-![SpacetimeDB Screenshot](./assets/spacetimedb.png)
+![SpacetimeDB Screenshot](./assets/spacetimeDB.png)
 
 🔗 https://spacetimedb.com/@Name-18/my-spacetime-app-w3lqu/tables
 
