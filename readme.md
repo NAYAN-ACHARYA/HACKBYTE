@@ -21,6 +21,12 @@ Parses resumes seamlessly while validating candidate skills using integrations l
 Monitors candidates with their composite TrustScore, Red Flags, and the interactive Work Experience Authorization status.
 ![TrustHire Candidates Dashboard](./assets/trusthire-dashboard.png)
 
+### SpacetimeDB Dashboard
+Real-time database tables and sync layer powering TrustHire.
+![SpacetimeDB Screenshot](./assets/spacetimeDB.png)
+
+🔗 https://spacetimedb.com/@Name-18/my-spacetime-app-w3lqu/tables
+
 ## 🚀 Quick Start (5 Minutes)
 
 **Prerequisites:** Node.js 16+, GitHub Token, Gemini API Key.
@@ -36,7 +42,7 @@ Monitors candidates with their composite TrustScore, Red Flags, and the interact
    ```bash
    # Terminal 1 - Backend (Runs on port 5000)
    cd server && npm run dev
-   
+
    # Terminal 2 - Frontend (Runs on port 5173)
    cd client && npm run dev
    ```
